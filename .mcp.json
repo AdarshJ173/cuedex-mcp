@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "cuedex": {
+      "url": "https://api.cuedex.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CUEDX_API_KEY}"
+      }
+    }
+  }
+}

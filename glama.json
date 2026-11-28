@@ -1,0 +1,10 @@
+{
+  "name": "cuedex-mcp",
+  "repository": "https://github.com/AdarshJ173/cuedex-mcp",
+  "maintainers": [
+    {
+      "github": "AdarshJ173"
+    }
+  ],
+  "mcpEndpoint": "https://api.cuedex.dev/mcp"
+}

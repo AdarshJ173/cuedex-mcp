@@ -1,0 +1,14 @@
+{
+  "name": "cuedex",
+  "version": "1.0.0",
+  "description": "Video memory for AI agents: search trusted YouTube channels and answer with cited video timestamps.",
+  "mcpServers": {
+    "cuedex": {
+      "httpUrl": "https://api.cuedex.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CUEDX_API_KEY}"
+      },
+      "timeout": 120000
+    }
+  }
+}

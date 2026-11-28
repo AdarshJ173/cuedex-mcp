@@ -1,0 +1,9 @@
+{
+  "name": "cuedex",
+  "version": "1.0.0",
+  "description": "Video memory for AI agents: search trusted YouTube channels and answer with cited video timestamps.",
+  "author": "Cuedex",
+  "homepage": "https://cuedex.dev",
+  "logo": "assets/logo.png",
+  "mcp": ".mcp.json"
+}
