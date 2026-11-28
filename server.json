@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.adarshj173/cuedex-mcp",
+  "name": "io.github.AdarshJ173/cuedex-mcp",
   "title": "Cuedex MCP",
   "description": "Video memory for AI agents: search trusted YouTube channels and answer with cited video timestamps.",
   "version": "1.0.0",
